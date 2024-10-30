@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Meu nome é Guilherme ✌️✌️sou de São Paulo 🇧🇷 , sou um desenvolvedor novamato em Android com Kotlin</p>
+<p align="left">Hello. My name is Guilherme ✌️✌️ I’m from São Paulo, I’m a novamato developer in Android with Kotlin.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">-Android Studio <br>-Kotlin <br>-SQL Administrator 🎲🎲<br>-Gosto de ambiente calmos 🖼️🖼️ e estudar ingles 🗣️🗣️<br>-E jogar um pouco de vez em quando 🎮🎮</p>
+<p align="left">- Android Studio  <br>- Kotlin  <br>- SQL Administrator 🎲🎲  <br>- I like calm environments 🖼️🖼️ and studying English 🗣️🗣️  <br>- And playing a little now and then 🎮🎮</p>
 
 ###
 
@@ -89,14 +89,12 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/01Guigo01/01Guigo01/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRzNDZxb3AxMXlvemUwc2NsdGw1N2VhNThwYnJ1MWpzem9oeDc4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nlk3Y1u3r1n5C/giphy.webp"  />
 </div>
-
-###
-
 
 ###
