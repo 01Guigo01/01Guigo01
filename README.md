@@ -4,11 +4,39 @@
 
 ###
 
+<h1 align="center" style="font-family: 'Courier New', Courier, monospace; color:#000ac9;">
+  <span class="typing">Hello, I'm Guilherme</span>
+</h1>
+
+<style>
+.typing {
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    font-family: 'Courier New', Courier, monospace;
+    color: #000ac9;
+    border-right: 3px solid #000ac9;
+    animation: typing 3s steps(30), blink 0.7s step-end infinite;
+    font-size: 24px;
+}
+
+@keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+}
+
+@keyframes blink {
+    50% { border-color: transparent; }
+}
+</style>
+
+###
+
 <h1 align="left">Hey What's up?</h1>
 
 ###
 
-<p align="left">Hello. My name is Guilherme ✌️✌️ I’m from São Paulo, I’m a novamato developer in Android with Kotlin.</p>
+<p align="left">Hello. My name is Guilherme ✌️✌️ I’m from São Paulo, I’m a novice developer in Android with Kotlin.</p>
 
 ###
 
@@ -20,9 +48,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=01Guigo01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01Guigo01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=01Guigo01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01Guigo01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -93,12 +121,8 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/01Guigo01/01Guigo01/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
 ###
 
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRzNDZxb3AxMXlvemUwc2NsdGw1N2VhNThwYnJ1MWpzem9oeDc4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nlk3Y1u3r1n5C/giphy.webp"  />
 </div>
-
-###
