@@ -2,39 +2,13 @@
   <img height="200" src="https://camo.githubusercontent.com/fa3b9292d0f2bfe0e30c0d8b0e0fb7ad611ffdf5452a610f621dbf137c3f5a5c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035"  />
 </div>
 
-###
-
 <h1 align="center" style="font-family: 'Courier New', Courier, monospace; color:#000ac9;">
-  <span class="typing">Hello, I'm Guilherme</span>
+  Hello, I'm Guilherme
 </h1>
-
-<style>
-.typing {
-    display: inline-block;
-    overflow: hidden;
-    white-space: nowrap;
-    font-family: 'Courier New', Courier, monospace;
-    color: #000ac9;
-    border-right: 3px solid #000ac9;
-    animation: typing 3s steps(30), blink 0.7s step-end infinite;
-    font-size: 24px;
-}
-
-@keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-}
-
-@keyframes blink {
-    50% { border-color: transparent; }
-}
-</style>
 
 ###
 
 <h1 align="left">Hey What's up?</h1>
-
-###
 
 <p align="left">Hello. My name is Guilherme ✌️✌️ I’m from São Paulo, I’m a novice developer in Android with Kotlin.</p>
 
@@ -42,22 +16,21 @@
 
 <h1 align="left">About Me</h1>
 
-###
-
 <p align="left">- Android Studio  <br>- Kotlin  <br>- SQL Administrator 🎲🎲  <br>- I like calm environments 🖼️🖼️ and studying English 🗣️🗣️  <br>- And playing a little now and then 🎮🎮</p>
 
 ###
 
+<!-- Colocando os gráficos lado a lado usando tabela -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01Guigo01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01Guigo01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=01Guigo01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=01Guigo01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph" /></td>
+    </tr>
+  </table>
 </div>
 
-###
-
 <h2 align="left">Techs</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -91,11 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
-
 <h2 align="left">Social Media</h2>
-
-###
 
 <div align="left">
   <a href="https://www.youtube.com/@15DeadMaul15-w5j" target="_blank">
@@ -120,8 +89,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/01Guigo01/01Guigo01/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/01Guigo01/01Guigo01/output/github-contribution-grid-snake.svg">
 </picture>
-
-###
 
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRzNDZxb3AxMXlvemUwc2NsdGw1N2VhNThwYnJ1MWpzem9oeDc4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nlk3Y1u3r1n5C/giphy.webp"  />
