@@ -20,7 +20,7 @@
 
 ###
 
-<!-- Colocando os gráficos lado a lado usando tabela -->
+
 <div align="center">
   <table>
     <tr>
@@ -29,6 +29,7 @@
     </tr>
   </table>
 </div>
+
 
 <h2 align="left">Techs</h2>
 
